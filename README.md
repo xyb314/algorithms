@@ -1,2 +1,3 @@
-# algorithms
-《算法》的实现
+# 算法 Algorithms
+*XYB的学习笔记*
+
